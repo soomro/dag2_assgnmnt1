@@ -1,0 +1,6 @@
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\dag2_assignment1\dag2_assignment1\bin\Debug\dag2_assignment1.exe.config
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\dag2_assignment1\dag2_assignment1\bin\Debug\dag2_assignment1.exe
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\dag2_assignment1\dag2_assignment1\bin\Debug\dag2_assignment1.pdb
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\dag2_assignment1\dag2_assignment1\obj\Debug\dag2_assignment1.exe
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\dag2_assignment1\dag2_assignment1\obj\Debug\dag2_assignment1.pdb
+C:\Users\w_soo\OneDrive\VisualStudioStuffs\Projects\dag2_assignment1\dag2_assignment1\obj\Debug\dag2_assignment1.csprojResolveAssemblyReference.cache
